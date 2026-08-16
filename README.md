@@ -14,7 +14,7 @@ Technology enthusiast focused on networking, infrastructure, digital systems, an
 
 ## What I Work With
 
-`MikroTik` `Linux` `PHP` `HTML` `MySQL` `GitHub` `VPS` `Networking` `Fiber Optic`
+`MikroTik` `FTTH` `PLACING` `MAINTENANCE` `GitHub` `VPS` `Networking` `Fiber Optic`
 
 ## Projects
 
@@ -24,7 +24,6 @@ Technology enthusiast focused on networking, infrastructure, digital systems, an
 - Server Infrastructure
 - Automation & Bot Systems
 - Digital Technology Projects
-<img width="1080" height="2400" alt="1000491954" src="https://github.com/user-attachments/assets/1e4cec5d-9677-42bf-8902-c392c6f2e63f" />
 
 
 ## Connect 
