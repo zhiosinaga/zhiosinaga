@@ -33,6 +33,8 @@ identitas:
   nama: "PAJACK Network"
   peran: "Network & Infrastructure Engineer"
   lokasi: "Indonesia"
+  founder of: "basilikē dýo basileía(b2b)"
+
 
 fokus_utama:
   - "🌐 Networking — Design & maintain reliable network infrastructure"
