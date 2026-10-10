@@ -182,7 +182,7 @@ filosofi: "Build. Learn. Improve."
 <a href="https://github.com/zhiosinaga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.tiktok.com/@zhiosinaga"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 <a href="https://wa.me/6285668888379"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://t.me/zhitera"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/zhiteraofc"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://instagram.com/zhiosinaga"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://instagram.com/sthdyenglesh"><img src="https://img.shields.io/badge/Instagram%20SCC-C13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
